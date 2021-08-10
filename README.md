@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Stennish
-- 👀 I’m interested in: Lua, C++, Python, HTML.
+- 👀 I’m interested in: Lua, C++, Python, Batch, HTML.
 - 🌱 I’m currently learning: Lua, Batch.
 - 💞️ I’m looking to collaborate on: -null-
 - 📫 How to reach me: Stennish#0001 on Discord
